@@ -1,11 +1,3 @@
-luxl180380
-britishstar
-
-kings rockers
-    Poliwhirl → Politoed
-    Slowpoke → Slowking
-    Seadra → Kingdra
-
 # a simple Python 3 program which is able to correlate IPv4 and IPv6 addresses, to actual street addresses. The program should be able to append data as it changes over time. Should libraries be called, ensure they are always kept compatible.
 # 
 # To correlate IPv4 and IPv6 addresses to street addresses, you can use the GeoIP2 library in Python. This library allows you to perform IP geolocation and retrieve location information based on IP addresses.
